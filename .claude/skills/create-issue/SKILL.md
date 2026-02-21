@@ -7,7 +7,7 @@ Create a well-formed GitHub issue that triggers the development workflow.
 Transform a validated plan into a GitHub issue that:
 - Clearly states the objective
 - Provides acceptance criteria
-- Gives Fidgel enough context to architect
+- Gives enough context for architecture
 - Can be tracked through completion
 
 ## Execution
@@ -27,7 +27,7 @@ Transform a validated plan into a GitHub issue that:
 
 ## Context
 
-[Why this matters. Background information Fidgel needs for architecture.]
+[Why this matters. Background information needed for architecture.]
 
 ## Acceptance Criteria
 
@@ -52,7 +52,7 @@ Transform a validated plan into a GitHub issue that:
 
 Apply appropriate labels:
 - `feature` / `bug` / `docs` / `infra` — type
-- `needs-architecture` — triggers Fidgel
+- `phase:plan` — enters the planning workflow
 
 ## Command
 
@@ -60,7 +60,7 @@ Apply appropriate labels:
 gh issue create \
   --title "[type]: [brief description]" \
   --body "[structured body]" \
-  --label "needs-architecture"
+  --label "phase:plan"
 ```
 
 ## Output
@@ -72,14 +72,18 @@ gh issue create \
 **Title:** [title]
 **URL:** [url]
 
-Assigned label: needs-architecture
-Fidgel will architect the solution.
+Assigned label: phase:plan
+Ready for architecture.
 ```
+
+## Language Rules
+
+The issue body is public documentation. It MUST NOT reference agent names, crew roles, or internal workflow structure. Review the comment-issue skill for the full language standard.
 
 ## What This Skill Does NOT Do
 
 - Validate the plan (use validate-plan first)
-- Architect the solution (Fidgel handles this)
+- Architect the solution (separate concern)
 - Assign to implementers (workflow handles this)
 
 This creates the issue. The workflow takes over from here.

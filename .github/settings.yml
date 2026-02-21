@@ -10,6 +10,29 @@ repository:
   allow_rebase_merge: false
   delete_branch_on_merge: true
 
+labels:
+  - name: "phase:plan"
+    color: "d4c5f9"
+    description: "Requirements and architecture in progress"
+  - name: "phase:build"
+    color: "0075ca"
+    description: "Implementation and testing in progress"
+  - name: "phase:review"
+    color: "e4e669"
+    description: "Deliverables under review"
+  - name: "phase:document"
+    color: "0e8a16"
+    description: "Documentation assessment and updates"
+  - name: "phase:pr"
+    color: "1d76db"
+    description: "Pull request awaiting workflows and reviewer feedback"
+  - name: "escalation:architecture"
+    color: "d93f0b"
+    description: "Architectural problem under diagnosis"
+  - name: "escalation:scope"
+    color: "fbca04"
+    description: "Issue scope needs expansion"
+
 branches:
   - name: main
     protection:
