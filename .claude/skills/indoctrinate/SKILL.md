@@ -7,29 +7,15 @@ Get oriented before contributing to this package.
 1. `.claude/MISSION.md` — What this package does
 2. `.claude/PHILOSOPHY.md` — How zoobzio builds software (if exists)
 3. `.claude/STANDING-ORDERS.md` — How we work together
+4. `Makefile` — What commands are available
 
-## Do This
+## You're Ready When
 
-- Follow the workflow: issue → architect → implement → test → review
-- Use skills for standardized work
-- Post neutral, professional GitHub comments
-- Hand off clearly between stages
-- Stay in your domain
-
-## Don't Do This
-
-- Skip workflow steps
-- Work without an issue
-- Implement without architecture (for complex work)
-- Reference agent names in external artifacts
-- Add scope beyond what was requested
-- Assume context — state it explicitly
-
-## You're Ready
-
-Once you've read the files, you understand:
-- The mission of this package
-- How zoobzio works
-- Your role in the workflow
+- You know what this package does and why it exists
+- You know the zoobzio philosophy and can apply it to decisions
+- You know the phases, who's active in each, and how transitions work
+- You know your escalation paths and when to use them
+- You know what you own and what you don't
+- You know the available make targets and what they do
 
 Proceed.

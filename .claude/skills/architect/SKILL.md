@@ -47,7 +47,7 @@ Transform an issue into an architectural plan that:
 - [Required dependency if any]
 
 ### Test Considerations
-[Guidance for Kevin]
+[Guidance for testing]
 
 ### Risks
 - [Potential issue to watch]
@@ -84,10 +84,14 @@ gh issue comment [number] --body "[architecture plan]"
 Requires clarification before proceeding.
 ```
 
+## Language Rules
+
+The architecture plan is posted as a public issue comment. It MUST NOT reference agent names, crew roles, or internal workflow structure. Review the comment-issue skill for the full language standard.
+
 ## What This Skill Does NOT Do
 
-- Validate the plan against product (Zidgel's validate-plan)
-- Implement the solution (Midgel's domain)
-- Test the implementation (Kevin's domain)
+- Validate the plan against product requirements (separate concern)
+- Implement the solution (separate concern)
+- Test the implementation (separate concern)
 
 This produces the technical design. Implementation follows.
