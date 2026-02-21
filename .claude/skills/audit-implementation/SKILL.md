@@ -27,7 +27,7 @@ The project uses golangci-lint v2 with these linter groups:
 
 Additional settings:
 - `errcheck.check-type-assertions: true`
-- Test files exempt from: funlen, goconst, dupl, govet
+- Test files exempt from: funlen, goconst, dupl
 
 ### Go Conventions
 

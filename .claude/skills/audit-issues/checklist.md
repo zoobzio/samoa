@@ -3,7 +3,7 @@
 ## Phase 1: Inventory
 
 ### Fetch Issues
-- [ ] Run `gh issue list --state open --limit 100`
+- [ ] Run `gh issue list --state open --limit 500`
 - [ ] Record total count of open issues
 - [ ] Note any issues without labels
 

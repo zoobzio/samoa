@@ -90,10 +90,10 @@ Use these colors:
 | `phase:pr` | `#1d76db` |
 | `escalation:architecture` | `#d93f0b` |
 | `escalation:scope` | `#fbca04` |
-| `feature` | `#1d76db` |
+| `feature` | `#a2eeef` |
 | `bug` | `#d73a4a` |
 | `docs` | `#0075ca` |
-| `infra` | `#e4e669` |
+| `infra` | `#c5def5` |
 
 ## Self-Check
 

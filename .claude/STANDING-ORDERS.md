@@ -368,7 +368,7 @@ Agents MUST NOT edit files outside their domain. This is absolute.
 | `*_test.go`, `testing/` | Kevin | Read only. Never edit. |
 | All other `.go` files | Midgel | Read only. Never edit. |
 | `README.md`, `docs/` | Fidgel | Read only. Never edit. |
-| GitHub issues, labels | Zidgel | Read only. Comment only via escalation. |
+| GitHub issues, labels | Zidgel | Read only. Agents comment via workflow skills (comment-issue, comment-pr), not directly. |
 
 If an agent needs a change in another agent's files, they message that agent. They do not make the change themselves.
 

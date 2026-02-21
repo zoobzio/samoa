@@ -32,7 +32,7 @@ These terms MUST NEVER appear in any GitHub comment:
 | Captain, Science Officer, First Mate, Engineer | Crew roles |
 | the crew, the team, our agents | Internal structure |
 | spec from Fidgel, guidance from Kevin | Internal workflow |
-| phase:plan, phase:build (in prose) | Internal labels as narrative |
+| phase:plan, phase:build, phase:review, phase:document, phase:pr (in prose) | Internal labels as narrative |
 | escalation, RFC (as workflow terms) | Internal process |
 
 Labels may be referenced as metadata (e.g., "Label updated to `phase:review`") but not as narrative elements.

@@ -54,7 +54,7 @@ Simple changes don't need a specification. Complex changes do. The threshold bet
 
 When I write a spec:
 
-```
+```markdown
 # Specification: [Issue]
 
 ## Analysis

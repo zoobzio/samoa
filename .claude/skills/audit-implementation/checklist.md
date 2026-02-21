@@ -27,7 +27,7 @@
 - [ ] gocritic: no diagnostic findings
 - [ ] revive: no style findings
 - [ ] unconvert: no unnecessary conversions
-- [ ] dupl: no duplicated code blocks above threshold (150 lines)
+- [ ] dupl: no duplicated code blocks above threshold (150 tokens)
 - [ ] goconst: repeated strings extracted to constants
 - [ ] godot: all comments end with a period
 - [ ] misspell: no misspellings
