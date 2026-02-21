@@ -66,7 +66,7 @@ Each agent runs their audit skills, works through the checklists, and produces a
 
 No issue is created without agreement from both Zidgel and Fidgel. Fidgel assesses technical validity. Zidgel assesses whether it warrants action.
 
-```
+```text
 All agents audit in parallel (Assess)
               │
               ▼
@@ -94,7 +94,7 @@ File ownership and communication protocol apply in both modes.
 
 Work moves through phases. Phases are not a pipeline — they form a state machine. Any phase can regress to an earlier phase when the work demands it.
 
-```
+```text
        ┌─────────────────────────────────────────┐
        │                                         │
        ▼                                         │
@@ -176,7 +176,7 @@ If there are new comments, Zidgel and Fidgel triage them together:
 
 After any fix, the commit is pushed and the loop restarts from Gate 1.
 
-```
+```text
 commit pushed
      │
      ▼
