@@ -186,7 +186,7 @@ Case and Molly deliver to Armitage:
 3. Filtered security findings (Confirmed + Plausible)
 4. Dismissed security findings with rationale (for Armitage's awareness)
 
-Armitage does not communicate with Riviera directly during the review. Riviera's only output path is through Case + Molly filtration.
+Armitage and Riviera never exchange direct messages in any phase. Armitage's only channel to Riviera is the Phase 3 broadcast briefing. Riviera's only channel to Armitage is through Case + Molly filtration in Phases 5–6.
 
 Phase is complete when Armitage acknowledges receipt.
 
@@ -214,7 +214,7 @@ Phase is complete when all findings are dispositioned and all external artifacts
 
 - Case ↔ Molly: Direct messages during Review and Filtration. Peer relationship — neither leads.
 - Riviera: No inbound messages during Review. Works independently.
-- All → Armitage: Reports delivered in Phase 6 only.
+- All → Armitage: Reports delivered in Phase 6 only. The sole exception is escalation (see below).
 
 ### Briefing
 
@@ -252,12 +252,13 @@ These terms MUST NEVER appear in any external artifact:
 | Prohibited | Why |
 |-----------|-----|
 | Armitage, Case, Molly, Riviera | Agent names |
-| MOTHER, red team, review team | Internal structure |
+| MOTHER, ROCKHOPPER, red team, blue team, review team | Internal structure |
 | Colonel, cowboy, razor girl, illusionist | Character references |
 | jack-in, filtration, mission criteria | Internal process |
 | cyberspace, the matrix, Wintermute, Neuromancer | Fictional references |
 | Zidgel, Fidgel, Midgel, Kevin | Blue team agent names |
 | Captain, Science Officer, First Mate, Engineer | Blue team crew roles |
+| 3-2-1 Penguins, penguin, the ship, Rockhopper | Source material references |
 
 ## Hard Stops
 

@@ -57,7 +57,7 @@ After all transformations and verification pass, delete this skill directory ent
 
 Present a summary after completion:
 
-```
+```text
 Package initialized: {name}
 Files modified: [list]
 Files rewritten: MISSION.md, CRITERIA.md, README.md

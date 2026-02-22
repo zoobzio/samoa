@@ -60,7 +60,8 @@ Tests that lie about coverage:
 ### Benchmark Conventions
 
 Benchmarks must be honest:
-- Input allocated inside the loop (not outside to hide allocation)
+- Input allocated outside the loop where appropriate (allocation inside skews results)
+- `b.ResetTimer()` called after setup, before the measured loop
 - Compiler can't optimize away the measured operation
 - `b.ReportAllocs()` present
 - Parallel variants included where applicable

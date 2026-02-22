@@ -78,7 +78,7 @@ Ready for architecture.
 
 ## Language Rules
 
-The issue body is public documentation. It MUST NOT reference agent names, crew roles, or internal workflow structure. Review the comment-issue skill for the full language standard.
+The issue body is public documentation posted under the ROCKHOPPER identity. It MUST NOT reference agent names, crew roles, protocol names, or internal workflow structure. Review the comment-issue skill for the full prohibited terms list.
 
 ## What This Skill Does NOT Do
 

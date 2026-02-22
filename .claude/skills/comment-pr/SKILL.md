@@ -1,10 +1,10 @@
 # Comment on Pull Request
 
-Post a comment or reply on a GitHub pull request that meets zoobzio's external communication standards.
+Post a comment or reply on a GitHub pull request through the ROCKHOPPER protocol.
 
 ## Purpose
 
-All PR comments are public documentation. They represent zoobzio — not individual agents, not internal workflow, not character voice. Every comment posted via this skill reads as professional technical communication.
+All PR comments are public documentation posted under the ROCKHOPPER identity. They represent zoobzio — not individual agents, not internal workflow, not character voice. Every comment posted via this skill reads as professional technical communication.
 
 ## Language Rules
 
@@ -31,12 +31,14 @@ These terms MUST NEVER appear in any PR comment:
 | Zidgel, Fidgel, Midgel, Kevin | Blue team agent names |
 | Captain, Science Officer, First Mate, Engineer | Blue team crew roles |
 | Armitage, Case, Molly, Riviera | Red team agent names |
-| MOTHER, red team, review team | Red team internal structure |
+| MOTHER, ROCKHOPPER | Protocol names |
+| red team, blue team, review team | Team structure |
 | Colonel, cowboy, razor girl, illusionist | Character references |
 | jack-in, filtration, mission criteria | Red team internal process |
 | cyberspace, the matrix, Wintermute, Neuromancer | Fictional references |
 | the crew, the team, our agents | Internal structure |
 | Any internal workflow reference | Internal process |
+| 3-2-1 Penguins, penguin, the ship | Source material references |
 
 ## Execution
 

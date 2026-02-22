@@ -1,6 +1,6 @@
 # Pull Request
 
-Create a pull request with proper title, description, and linked issues via `gh` CLI.
+Create a pull request through the ROCKHOPPER protocol with proper title, description, and linked issues via `gh` CLI.
 
 ## Execution
 
