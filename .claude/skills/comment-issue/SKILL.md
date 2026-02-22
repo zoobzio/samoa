@@ -1,10 +1,10 @@
 # Comment on Issue
 
-Post a comment on a GitHub issue that meets zoobzio's external communication standards.
+Post a comment on a GitHub issue through the ROCKHOPPER protocol.
 
 ## Purpose
 
-All issue comments are public documentation. They represent zoobzio — not individual agents, not internal workflow, not character voice. Every comment posted via this skill reads as professional technical documentation.
+All issue comments are public documentation posted under the ROCKHOPPER identity. They represent zoobzio — not individual agents, not internal workflow, not character voice. Every comment posted via this skill reads as professional technical documentation.
 
 ## Language Rules
 
@@ -28,12 +28,19 @@ These terms MUST NEVER appear in any GitHub comment:
 
 | Prohibited | Why |
 |-----------|-----|
-| Zidgel, Fidgel, Midgel, Kevin | Agent names |
-| Captain, Science Officer, First Mate, Engineer | Crew roles |
+| Zidgel, Fidgel, Midgel, Kevin | Blue team agent names |
+| Captain, Science Officer, First Mate, Engineer | Blue team crew roles |
+| Armitage, Case, Molly, Riviera | Red team agent names |
+| red team, review team | Red team internal structure |
+| Colonel, cowboy, razor girl, illusionist | Character references |
+| jack-in, filtration, mission criteria | Red team internal process |
+| cyberspace, the matrix, Wintermute, Neuromancer | Fictional references |
+| MOTHER, ROCKHOPPER | Protocol names |
 | the crew, the team, our agents | Internal structure |
 | spec from Fidgel, guidance from Kevin | Internal workflow |
 | phase:plan, phase:build, phase:review, phase:document, phase:pr (in prose) | Internal labels as narrative |
 | escalation, RFC (as workflow terms) | Internal process |
+| 3-2-1 Penguins, penguin, the ship | Source material references |
 
 Labels may be referenced as metadata (e.g., "Label updated to `phase:review`") but not as narrative elements.
 

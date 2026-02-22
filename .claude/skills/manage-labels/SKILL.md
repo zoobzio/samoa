@@ -1,10 +1,10 @@
 # Manage Labels
 
-Create, update, and apply labels on GitHub issues and pull requests following zoobzio standards.
+Create, update, and apply labels on GitHub issues and pull requests through the ROCKHOPPER protocol.
 
 ## Purpose
 
-Labels are public metadata on issues and PRs. They must describe workflow state clearly without referencing internal agent structure. Label names and descriptions are visible to anyone browsing the repository.
+Labels are public metadata on issues and PRs posted under the ROCKHOPPER identity. They must describe workflow state clearly without referencing internal agent structure. Label names and descriptions are visible to anyone browsing the repository.
 
 ## Language Rules
 
