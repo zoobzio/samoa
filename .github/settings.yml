@@ -60,7 +60,7 @@ labels:
     color: "f9a825"
     description: "Should be addressed"
   - name: "severity:low"
-    color: "2e7d32"
+    color: "607d8b"
     description: "Address when convenient"
   - name: "feature"
     color: "a2eeef"

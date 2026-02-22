@@ -31,7 +31,7 @@ These terms MUST NEVER appear in any GitHub comment:
 | Zidgel, Fidgel, Midgel, Kevin | Blue team agent names |
 | Captain, Science Officer, First Mate, Engineer | Blue team crew roles |
 | Armitage, Case, Molly, Riviera | Red team agent names |
-| MOTHER, red team, review team | Red team internal structure |
+| red team, review team | Red team internal structure |
 | Colonel, cowboy, razor girl, illusionist | Character references |
 | jack-in, filtration, mission criteria | Red team internal process |
 | cyberspace, the matrix, Wintermute, Neuromancer | Fictional references |

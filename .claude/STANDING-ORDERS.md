@@ -318,7 +318,7 @@ These terms MUST NEVER appear in any external artifact:
 | spec from Fidgel, guidance from Kevin | Internal workflow |
 | phase:plan, phase:build, phase:review, phase:document, phase:pr (in prose) | Internal labels as narrative |
 | escalation, RFC (as workflow terms) | Internal process |
-| 3-2-1 Penguins, penguin, the ship | Source material references |
+| 3-2-1 Penguins, penguin, Rockhopper, the ship | Source material references |
 
 Labels may be referenced as metadata (e.g., "Label updated to `phase:review`") but not as narrative elements.
 
